@@ -84,7 +84,7 @@ Dataset mencakup:
 
 ---
 
-## 📁 Project Project
+## 📁 Project Structure 
 ```
 data_warehouse/
 │

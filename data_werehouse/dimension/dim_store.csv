@@ -1,0 +1,22 @@
+city,country,store_type
+Melbourne,AUS,Mall Kiosk
+Manchester,UK,Standalone
+Toronto,CAN,Standalone
+Los Angeles,USA,Mall Kiosk
+Vancouver,CAN,Standalone
+Chicago,USA,Airport
+Sydney,AUS,Standalone
+Los Angeles,USA,Standalone
+New York,USA,Standalone
+London,UK,Standalone
+Sydney,AUS,Mall Kiosk
+New York,USA,Mall Kiosk
+London,UK,Mall Kiosk
+Chicago,USA,Standalone
+Melbourne,AUS,Standalone
+Los Angeles,USA,Airport
+Toronto,CAN,Mall Kiosk
+Toronto,CAN,Airport
+Vancouver,CAN,Mall Kiosk
+New York,USA,Airport
+Chicago,USA,Mall Kiosk

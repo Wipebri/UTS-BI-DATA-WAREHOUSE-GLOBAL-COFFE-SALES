@@ -127,8 +127,10 @@ data_warehouse/
 https://colab.research.google.com/drive/1LEbJth9I7MuwbEVYZ4K7IWWGRwhQTIyW?usp=sharing  
 
 📁 GitHub Repository:  
-https://github.com/Wipebri/UTS-BI-DATA-WAREHOUSE-GLOBAL-COFFE-SALES  
+https://github.com/Wipebri/UTS-BI-DATA-WAREHOUSE-GLOBAL-COFFE-SALES
 
+📄 Laporan:
+https://drive.google.com/file/d/1BdjwoRcgzgb-bewiZBt3ERCrJtaizbKT/view?usp=drive_link
 ---
 
 ## 🚀 Conclusion
